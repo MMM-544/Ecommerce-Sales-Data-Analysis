@@ -46,10 +46,11 @@ The dataset was prepared through the following steps:
 - **Top Month by Sales:** November 2011
 
 ## Project Structure
-```text
+
 Ecommerce-Sales-Data-Analysis/
 │
 ├── Ecommerce_Sales_Analysis.ipynb
+├── cleaned_online_retail.zip
 └── README.md
 ```
 
